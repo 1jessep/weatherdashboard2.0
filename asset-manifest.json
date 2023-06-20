@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherdashboard2/static/css/main.b7b14a49.css",
+    "main.js": "/weatherdashboard2/static/js/main.eccb6c19.js",
+    "static/media/cold.jpg": "/weatherdashboard2/static/media/cold.9175c9e750f12b896dae.jpg",
+    "static/media/hot.jpg": "/weatherdashboard2/static/media/hot.9826fc4346a1b63c6b82.jpg",
+    "index.html": "/weatherdashboard2/index.html",
+    "main.b7b14a49.css.map": "/weatherdashboard2/static/css/main.b7b14a49.css.map",
+    "main.eccb6c19.js.map": "/weatherdashboard2/static/js/main.eccb6c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b14a49.css",
+    "static/js/main.eccb6c19.js"
+  ]
+}
