@@ -1,5 +1,10 @@
 # Weather Dashboard 2.0
 
+
+SCREENSHOT:
+![image](https://github.com/1jessep/weatherdashboard2.0/assets/110129027/6d7a72f0-d694-4a99-838f-edd404b6ba5a)
+
+
   # Table of Contents
   1. [Project Title](#Title)
   2. [Github](#Github)
